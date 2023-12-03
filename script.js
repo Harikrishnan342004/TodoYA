@@ -1,10 +1,6 @@
 // Get all required elements.....
 
 
-
-
-
-
 function get(){ 
     const inputBox = document.querySelector("#displayscreen").value;       // Value Taken from  displayscreen .....  
     const addbtn = document.querySelector(".inputField button");     // Value are inserted to display ........    
